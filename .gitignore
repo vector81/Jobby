@@ -1,0 +1,7 @@
+node_modules/
+dist/
+browser-profile/
+jobs.json
+saved-answers.json
+config.json
+*.pdf

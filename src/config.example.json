@@ -1,0 +1,19 @@
+{
+  "search": {
+    "keywords": ["admin", "NDIS admin"],
+    "location": "Your City NSW",
+    "platforms": ["seek"],
+    "maxPages": 3
+  },
+  "personal": {
+    "firstName": "YOUR_FIRST_NAME",
+    "lastName": "YOUR_LAST_NAME",
+    "email": "YOUR_EMAIL@gmail.com",
+    "phone": "YOUR_PHONE_NUMBER",
+    "resumePath": "C:\\path\\to\\your\\resume.pdf"
+  },
+  "application": {
+    "maxApplications": 25,
+    "delayBetweenApplications": 4000
+  }
+}
